@@ -6,6 +6,7 @@
 - Hice lo más parecido posible con las cajas y divs correspondientes.
 - Nuevas implementaciones del CSS aprendidos de la W3Schools.
 - Script implementado por mis conocimientos SOLO para uso estético del responsive en dispositivos menores.
+- README.md ayudado con IA.
 
 ### Fecha del commit
 
@@ -19,7 +20,7 @@ Se realizaron mejoras visuales como el adecuado responsive para dispositvos móv
 
 ## Cambios principales
 
-### 🎨 Estructura global y estilos base
+### Estructura global y estilos base
 
 - Importadas las fuentes **DM Sans**, **Inter** y **Poppins** desde Google Fonts.
 - Incorporada la librería **Bootstrap Icons** para íconos sociales y de interfaz.
